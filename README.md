@@ -1,6 +1,5 @@
 # AI-Story-Generator
 AI Story Generator is a web app that generates creative short stories from user prompts using the DeepSeek Coder 6.7B-Instruct model, with a clean Gradio interface.
-# AI Story Generator
 
 This is an AI-powered creative story generator built using the DeepSeek Coder model and Gradio interface.
 
