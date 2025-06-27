@@ -15,5 +15,7 @@ This is an AI-powered creative story generator built using the DeepSeek Coder mo
 
 Click the badge below to run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/pranay2686/AI-Story-Generator/blob/main/Ai Story.ipynb)](https://colab.research.google.com/github/pranay2686/AI-Story-Generator/blob/main/Ai%20Story.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranay2686/AI-Story-Generator/blob/main/Ai Story.ipynb)
+
+
 
