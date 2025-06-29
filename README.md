@@ -40,14 +40,37 @@ Before Running the Code we should set Runtime from CPU to T4-GPU and then start 
 ![Image Alt](https://github.com/pranay2686/AI-Story-Generator/blob/main/screenshots/4.png)
 
 ## :link:Installation: To run locally
-```bash
-  git clone https://github.com/pranay2686/Ai-Story-Generator.git
-  cd Ai-Story-Generator
+
+ cloning the Repo in VS Code Terminal:
+ ```bash
+     git clone https://github.com/pranay2686/Ai-Story-Generator.git
+```
+To Run Locally in VS Code use app.py and requirements.txt files that i shared.
+
+For Creating Folder
+ ```bash
+ cd Ai-Story-Generator
+```
+This Command below is to Create Virtual Environment:
+  ```bash
   python -m venv venv
-  venv\Scripts\activate (on Windows) or source venv/bin/activate (on Mac or Linux)
+```
+This Command in the below is to Activate Virtual Environment:
+ ```bash
+ venv\Scripts\activate (on Windows) or source venv/bin/activate (on Mac or Linux)
+```
+The below command is to install All dependencies in the requirements.txt:
+```bash
   pip install -r requirements.txt
+```
+To run the code finally use the below command:
+```bash
   python app.py
 ```
+
+## :link:Note:
+In my opinion, I would not suggest running this code locally using VS Code, especially if you're using a CPU. This is because the DeepSeek model we're using is quite large, and generating output on a CPU can take a very long time. Instead, I recommend using the Google Colab link I’ve provided. Colab uses a T4 GPU, which significantly speeds up the execution and provides faster and more accurate results.
+
 ## :link:Important Notes for Local Use
 
 This notebook uses the `deepseek-ai/deepseek-coder-6.7b-instruct` model, which:
