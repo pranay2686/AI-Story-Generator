@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranay2686/AI-Story-Generator/blob/main/story%20clean.ipynb)
+
 # AI-Story-Generator
 AI Story Generator is a web app that generates creative short stories from user prompts using the DeepSeek Coder 6.7B-Instruct model, with a clean Gradio interface.
 
