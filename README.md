@@ -41,7 +41,7 @@ Before Running the Code we should set Runtime from CPU to T4-GPU and then start 
 
 ## :link:Installation: To run locally
 ```bash
-  git clone https://github.com/pranay6826/Ai-Story-Generator.git
+  git clone https://github.com/pranay2686/Ai-Story-Generator.git
   cd Ai-Story-Generator
   python -m venv venv
   venv\Scripts\activate (on Windows) or source venv/bin/activate (on Mac or Linux)
